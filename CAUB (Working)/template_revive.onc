@@ -1,0 +1,1 @@
+{"Type":"UnencryptedConfiguration","NetworkConfigurations":[{"GUID":"NETWORKGUID","Metered":false,"Name":"NETWORKNAME","Type":"WiFi","WiFi":{"AutoConnect":true,"SSID":"NETWORKSSID","Security":"None"},"NameServersConfigType":"DHCP","IPAddressConfigType":"DHCP","StaticIPConfig":{"NameServers":[]},"ProxySettings":{"Type":"Direct"}}]}
